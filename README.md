@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Halo Semuanya! <br>
+Saya seorang mahasiswa teknik informatika di Universitas Palangkaraya. <br>
+Saat ini saya sedang mengikuti program ASAH dari Dicoding. 
 <!--
 **dickynugrahahasibuan/dickynugrahahasibuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
